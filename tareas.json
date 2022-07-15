@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "bañar a mora",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "hacer los sprint",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "mirar las clases",
+    "estado": "en curso"
+  },
+  {
+    "titulo": "tomar te",
+    "estado": "en curso"
+  },
+  {
+    "titulo": "tomar te y cafe ",
+    "estado": "pendiente"
+  }
+]
